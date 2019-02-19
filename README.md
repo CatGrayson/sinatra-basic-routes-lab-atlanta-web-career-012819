@@ -1,5 +1,6 @@
 # Sinatra Routes Lab
 
+
 `app.rb` is the heart and soul of our Sinatra application. It handles all the incoming requests from users and directs the browser to the correct URL.
 
 The goal of this lab is to build multiple routes that render different text. You'll be coding your solution in `app.rb`.
